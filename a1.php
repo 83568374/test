@@ -2,4 +2,8 @@
 
 phpinfo();
 
+echo 'test'
+
+
+
 ?>
