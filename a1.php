@@ -4,6 +4,6 @@ phpinfo();
 
 
 	add row 
-tttttttttttttttttttttttttttttttt
+add 2nd row
 
 ?>
